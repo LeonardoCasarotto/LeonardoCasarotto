@@ -1,6 +1,5 @@
-### Leonardo Casarotto
-[![Header](https://raw.githubusercontent.com/Leonardocasarotto/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardocasarotto)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+[![Header](https://github.com/LeonardoCasarotto/LeonardoCasarotto/blob/main/header.png?raw=true "Header")](https://some-url.dev/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardocasarotto)]</body>
