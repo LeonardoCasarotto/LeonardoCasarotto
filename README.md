@@ -5,4 +5,5 @@
 -I'm a student
 -I love learning new things
 <h3>The Languages I use :</h3>
-![C](https://img.icons8.com/color/256/c-sharp-logo-2.png)!
+![alt text](https://img.icons8.com/fluency/256/c-sharp-logo.png)
+
