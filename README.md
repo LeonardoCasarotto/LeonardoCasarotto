@@ -19,6 +19,6 @@
   <details><summary><b>My stats:</b></summary>
   
   
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=leonardocasarotto&count_private=true&show_icons=true&theme=dark#gh-dark-mode-onlye)
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=leonardocasarotto&count_private=true&show_icons=true&theme=react#gh-dark-mode-onlye)
   </details></div>
 
