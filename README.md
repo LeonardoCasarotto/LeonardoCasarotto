@@ -2,6 +2,8 @@
 
 
 <h1>Hi there!</h1>
+<div>
+
 <ul>
   <li>I'm a student</li>
   <li>I love learning new things 👨‍💻</li>
@@ -22,6 +24,7 @@
   <details><summary><b>My stats:</b></summary>
   
   
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=leonardocasarotto&count_private=true&show_icons=true&theme=react#gh-dark-mode-onlye)
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=leonardocasarotto&count_private=true&show_icons=true&theme=react#gh-dark-mode-onlye)<br><br>
+![Profile View Counter](https://komarev.com/ghpvc/?username=LeonardoCasarotto&style=for-the-badge&color=61dafb)
   </details></div>
 
