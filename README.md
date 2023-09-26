@@ -16,7 +16,7 @@
 <br>
 <h3>The technologies I use:</h3>
 <p float ="left">
- <img src="https://img.icons8.com/fluency/256/jupyter.png" width="48"><img src="https://img.icons8.com/color/256/linux.png" width="48"><img src="https://img.icons8.com/color/256/git.png" width="48<img src="https://img.icons8.com/fluency/256/arduino.png" width="48">
+ <img src="https://img.icons8.com/fluency/256/jupyter.png" width="48"><img src="https://img.icons8.com/color/256/linux.png" width="48"><img src="https://img.icons8.com/color/256/git.png" width="48"><img src="https://img.icons8.com/fluency/256/arduino.png" width="48">
 
 <!--</p>
 <h3>What I want to learn:</h3>
