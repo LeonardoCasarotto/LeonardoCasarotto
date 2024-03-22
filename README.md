@@ -6,7 +6,7 @@
 
 <ul>
   <li>I'm a student</li>
-  <li>I love learning new things 👨‍💻</li>
+  <li>I love learning 👨‍💻</li>
   <li>I'm intrested in robotics and in AI 🤖</li>
   <li>My life feels like a reality show 🎬</li></ul>
 
