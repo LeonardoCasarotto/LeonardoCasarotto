@@ -7,7 +7,7 @@
 <ul>
   <li>I'm a student</li>
   <li>I love learning 👨‍💻</li>
-  <li>I'm intrested in robotics and in AI 🤖</li>
+  <li>I'm intrested in robotics, AI and networking 🌐</li>
   <li>My life feels like a reality show 🎬</li></ul>
 
 <h3>The languages I use:</h3>
