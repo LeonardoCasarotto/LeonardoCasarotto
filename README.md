@@ -20,7 +20,7 @@
 <h3>The technologies I use:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=linux,arduino,laravel,wordpress)]()
+[![My Skills](https://skillicons.dev/icons?i=linux,arduino,laravel,wordpress,spring)]()
 
 
 
