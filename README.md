@@ -5,7 +5,7 @@
 
 
 <ul>
-  <li>I'm a student 📚</li>
+  <li>I'm a student at Unipd📚</li>
   <li>I love learning 👨‍💻</li>
   <li>I'm intrested in robotics, AI and networking 🌐</li>
 
